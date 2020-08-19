@@ -134,7 +134,7 @@ label start:
     # replace it by adding a file named "eileen happy.png" to the images
     # directory.
 
-    play music ambiance
+    #play music ambiance	#Music was removed
     
     show neutral
     with dissolve
